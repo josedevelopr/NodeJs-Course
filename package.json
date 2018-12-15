@@ -1,0 +1,30 @@
+{
+  "name": "curso-nodejs",
+  "version": "0.0.1",
+  "description": "un curso de nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node module.js",
+    "desarrollo": "node module.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshRHCP21/NodeJs-Course.git"
+  },
+  "keywords": [
+    "nodejs",
+    "curso",
+    "español"
+  ],
+  "author": "jose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshRHCP21/NodeJs-Course/issues"
+  },
+  "homepage": "https://github.com/joshRHCP21/NodeJs-Course#readme"
+}
